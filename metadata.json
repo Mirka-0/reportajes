@@ -1,0 +1,6 @@
+{
+  "name": "Reportes Fe y Alegría",
+  "description": "Plataforma para visibilizar y dar seguimiento de manera responsable y anónima a los problemas de infraestructura en la I.E. Fe y Alegría de San Juan de Lurigancho.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
